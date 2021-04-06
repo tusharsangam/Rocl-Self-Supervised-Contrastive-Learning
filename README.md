@@ -1,5 +1,6 @@
 # Rocl-Self-Supervised-Contrastive-Learning
 Advanced Computer Vision Final Project, we implement RoCL, robust contrastive learning for self supervised adversarial learning
+Code same as Original Rocl repo mostly, with little edits in data loading & driver code
 
 ## References
 <a href="https://github.com/Kim-Minseon/RoCL/" target="_blank">RoCL Original GitHub Repo by Minseon Kim</a>
